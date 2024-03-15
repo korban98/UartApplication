@@ -15,5 +15,5 @@ dependencyResolutionManagement {
         }
     }
 }
-rootProject.name = "UartApplication"
-include ':app'
+rootProject.name = "E-Mobility-HMI"
+include ':E-Mobility-HMI'
